@@ -19,3 +19,7 @@
 Windows Subsystem for Linux has no installed distributions.
 Distributions can be installed by visiting the Microsoft Store:
 https://aka.ms/wslstore
+
+
+##### search coding script install docker 
+      https://youtube.dimas-maryanto.com/posts/devops/docker/02a-install-on-windows10-wls
