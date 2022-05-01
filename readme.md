@@ -6,9 +6,9 @@
 ##### Windows Subsystem for Linux menggunakan wsl dengan menggunakan PowerShell yang di jalankan dengan "Administration Permission"
 
      C:\Windows\system32> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-     
+#####
      C:\Windows\system32> dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-     
+#####     
      C:\Windows\system32> wsl --set-default-version 2
      
 ##### For information on key differences with WSL 2 please visit https://aka.ms/wsl2
